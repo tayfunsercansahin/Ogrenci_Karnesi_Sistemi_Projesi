@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620383950 source:c:\users\tayfun\desktop\Öðrenci karnesi sistemi projesi\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
